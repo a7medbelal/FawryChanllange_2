@@ -1,9 +1,4 @@
 # 📚 Quantum Bookstore – Fawry Challenge
-
-This is my solution for the Fawry internship
-
-# 📚 Quantum Bookstore – Fawry Challenge Submission
-
 This project is a simple console-based bookstore system built in C# as part of the Fawry OOP internship challenge.
 
 ---
